@@ -1,4 +1,3 @@
-"# -_-_-" 
 #include<stdio.h>
 
 int main()
